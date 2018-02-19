@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-registration-acceptancetest-jbehave" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-registration-acceptancetest-jbehave-english" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-registration-acceptancetest-selenium" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-registration-application" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-registration-capacitytest-gatling" charset="UTF-8" />
+  </component>
+</project>

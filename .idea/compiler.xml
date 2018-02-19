@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="user-registration-acceptancetest-jbehave" />
+        <module name="user-registration-acceptancetest-jbehave-english" />
+        <module name="user-registration-acceptancetest-selenium" />
+        <module name="user-registration-application" />
+        <module name="user-registration-capacitytest-gatling" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="user-registration" target="1.8" />
+      <module name="user-registration-acceptancetest-jbehave" target="1.8" />
+      <module name="user-registration-acceptancetest-jbehave-english" target="1.8" />
+      <module name="user-registration-acceptancetest-selenium" target="1.8" />
+      <module name="user-registration-application" target="1.8" />
+      <module name="user-registration-capacitytest-gatling" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
